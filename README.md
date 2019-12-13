@@ -6,5 +6,5 @@ Homepage of odir challenge: [Link](https://odir2019.grand-challenge.org)
 # Download
 You can download OIA-ODIR from either Baidu Drive or Google Drive.
 
-* OIA-ODIR on Baidu Drive: [Link](https://pan.baidu.com/s/xxxx "悬停显示")     PWD:xxxx
+* OIA-ODIR on Baidu Drive: [Link](https://pan.baidu.com/s/1NqRuzAMj4MfStqZ2PSlL1A "悬停显示")     PWD:b665
 * OIA-ODIR on Google Drive: [Link](xxxx "悬停显示")     PWD:xxxx
